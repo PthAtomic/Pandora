@@ -4,4 +4,7 @@
 
 
 #Showcase
-Soon!
+
+![image](https://github.com/PthAtomic/Pandora/blob/main/panda1.png)
+![image](https://github.com/PthAtomic/Pandora/blob/main/panda2.png)
+![image](https://github.com/PthAtomic/Pandora/blob/main/panda3.png)
