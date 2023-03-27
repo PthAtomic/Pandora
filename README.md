@@ -1,6 +1,6 @@
 # Pandora multibotting
 # Download
-* [Download](https://link-hub.net/549925/inzector-grutupia)
+* [Download]([https://github.com/PthAtomic/Pandora/releases/download/pandora/Pandora.exe])
 
 
 #Showcase
