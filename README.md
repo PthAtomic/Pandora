@@ -1,6 +1,6 @@
 # Pandora multibotting
 # Download
-* [Download](https://github.com/PthAtomic/Pandora/releases/download/pandora/Pandora.exe)
+* [Download v2.02](https://github.com/PthAtomic/Pandora/releases/download/pandora/Pandora.exe)
 
 
 #Showcase
